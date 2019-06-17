@@ -1,4 +1,10 @@
-<doctype='HTML'>
+<!DOCTYPE html'>
+<html>
+  <head>
+  </head>
+  <body>
+  </body>
+</html>
 # HTML Intro - Lab
 
 ## Introduction
